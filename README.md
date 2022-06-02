@@ -13,6 +13,9 @@ basic stucture of zomato ui. i described how i create it
 here how it looks like
 
 
+https://user-images.githubusercontent.com/86179222/171632898-1676bf0d-d1e6-4651-ac14-285a829102c1.mp4
+
+
 ![Screenshot (90)](https://user-images.githubusercontent.com/86179222/171628858-2feebe2c-cdd3-4e12-b600-c16cd41322ed.png)
 ![Screenshot (91)](https://user-images.githubusercontent.com/86179222/171628888-635eee20-5206-473f-8ff0-74654b731877.png)
 ![Screenshot (92)](https://user-images.githubusercontent.com/86179222/171628903-ec9c2210-6171-4f4c-a220-b4f5117806ea.png)
