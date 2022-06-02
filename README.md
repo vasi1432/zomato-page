@@ -1,7 +1,7 @@
 # zomato-page
 a singlr page zomato clone
 
-https://user-images.githubusercontent.com/86179222/171628542-3cc6d98f-76e2-4d51-8c25-809019b25195.mp4
+
 
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/86179222/171630166-2b8ef54c-514b-469b-aa7d-5c407561810e.png)
